@@ -100,4 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 
-.wiki_source.csv
+wiki_source.csv
